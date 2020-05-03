@@ -1,0 +1,24 @@
+Create a function which takes:
+- array of 5 files as input and prints the content as follows (no use of readFileSync) Using callbacks:
+
+============
+I am content of file1.txt
+I am content of file1.txt
+
+============
+I am content of file2.txt
+I am content of file2.txt   
+
+============
+I am content of file3.txt
+I am content of file3.txt
+
+============
+I am content of file4.txt
+I am content of file4.txt
+
+============
+I am content of file5.txt
+I am content of file5.txt
+
+===========
